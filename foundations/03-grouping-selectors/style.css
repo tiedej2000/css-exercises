@@ -1,0 +1,14 @@
+.dark{
+    background-color: black;
+    color: white;
+}
+
+.bright{
+    background-color: yellow;
+}
+
+.dark,
+.bright{
+    font-family: "Times New Roman", Helvetica, sans-serif;
+    font-size: 28px;
+}

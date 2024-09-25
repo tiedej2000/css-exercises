@@ -1,0 +1,16 @@
+.odd{
+    background-color: pink;
+}
+
+.adjust-font-size{
+    font-size: 24px;
+}
+
+#two{
+    font-size: 34px;
+    color: blue;
+}
+
+#four{
+    background-color: greenyellow;
+}
